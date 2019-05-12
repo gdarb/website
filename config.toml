@@ -2,6 +2,7 @@ baseURL = "http://www.miles.sh/"
 languageCode = "en-us"
 title = "Aidan Miles"
 theme = "hello-friend-ng"
+googleAnalytics = "UA-140010995-1"
 
 [params]
   dateform        = "Jan 2, 2006"
