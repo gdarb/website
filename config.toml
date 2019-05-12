@@ -1,0 +1,51 @@
+baseURL = "http://www.miles.sh/"
+languageCode = "en-us"
+title = "Aidan Miles"
+theme = "hello-friend-ng"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  avatar = "avatar.jpg"
+
+  # Metadata mostly used in document's head
+  # description = "Homepage and blog by Djordje Atlialp"
+  # keywords = "homepage, blog, science, informatics, development, programming"
+  # images = [""]
+
+  # Directory name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+
+  # Social icons
+  [[params.social]]
+    name = "email"
+    url  = "mailto:aidan.miles@gmail.com"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/gdarb"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/aidanmiles"
+
+[languages]
+  [languages.en]
+    title = "Aidan Miles"
+    # subtitle = "A simple theme for Hugo"
+    keywords = ""
+    copyright = ""
+    # readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "/home/aidan"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
