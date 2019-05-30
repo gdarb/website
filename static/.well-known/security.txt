@@ -1,0 +1,4 @@
+Contact: mailto:aidan.miles@gmail.com
+Encryption: https://keybase.io/gdarb
+Canonical: https://www.miles.sh/.well-known/security.txt
+Signature: https://www.miles.sh/.well-known/security.txt.sig
