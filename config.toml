@@ -35,6 +35,10 @@ googleAnalytics = "UA-140010995-1"
     name = "linkedin"
     url  = "https://www.linkedin.com/in/aidanmiles"
 
+  [[params.social]]
+    name = "keybase"
+    url  = "https://keybase.io/gdarb"
+
 [languages]
   [languages.en]
     title = "Aidan Miles"
