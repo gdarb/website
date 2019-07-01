@@ -5,3 +5,6 @@
 	path = public
 	url = https://github.com/gdarb/gdarb.github.io.git
 	branch = master
+[submodule "themes/website-theme"]
+	path = themes/website-theme
+	url = https://github.com/gdarb/website-theme.git
